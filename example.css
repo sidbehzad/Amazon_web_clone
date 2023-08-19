@@ -1,0 +1,9 @@
+#buy{
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: blueviolet;
+}
